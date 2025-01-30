@@ -1,0 +1,28 @@
+# Byte-compiled Python files
+*.pyc
+__pycache__/
+
+# Distribution/packaging
+*.egg-info/
+dist/
+build/
+sdist/
+wheels/
+
+# Virtual environments
+.env
+venv/
+env/
+
+# IDE-specific files
+.vscode/
+.idea/
+*.pydevproject
+*.project
+*.pyproj
+
+# Unit test / coverage reports
+.coverage
+.tox/
+htmlcov/
+.pytest_cache/
